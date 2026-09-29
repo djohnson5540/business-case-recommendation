@@ -1,0 +1,129 @@
+{
+  "format": "command-nexus-weekly-report",
+  "schemaVersion": 1,
+  "courseId": "CIT140",
+  "week": 2,
+  "assignmentId": "CIT140-W02-BUSINESS-CASE",
+  "artifactType": "business-case-recommendation",
+  "caseId": "meridian-forge",
+  "reportId": "f380bfed-45cc-4e06-96da-82dcdd34c359",
+  "revision": 3279,
+  "createdAt": "2026-09-29T03:49:54.950Z",
+  "exportedAt": "2026-09-29T05:32:58.483Z",
+  "learnerLabel": "WEEK 2 BUSINESS CASE RECOMMENDATION QA CONTROL REVIEW",
+  "contentStatus": "complete-fields",
+  "sections": [
+    {
+      "id": "project",
+      "title": "Proposed project",
+      "value": "Perform a review of the affected QA cell. The QA and Engineering will track the command, check retired test, and save important record. This is a review not a pair or restart to M-17."
+    },
+    {
+      "id": "need",
+      "title": "Business need",
+      "value": "The affected QA cell needs clearer records so Operations can decide how to proceed safely (W02-S01). Only two of six record sets identify both a custodian and the original source (W02-S02)."
+    },
+    {
+      "id": "value",
+      "title": "Expected value and beneficiaries",
+      "value": "QA and Engineering would have better evidence to investigate, and Operations would have a clearer summary for its decision. Six record searches took 60 staff minutes (W02-S02), but no future savings have been measured."
+    },
+    {
+      "id": "scopeIn",
+      "title": "Included work",
+      "value": "I WOULD STRAT BY REVIEWING COMMND OWNERSHIP, TEST SCHEDULING, CONTROLS, AND SAVE EVIDENCE. THEN PROVIDE AN OWERNERSHIPRECORD, CONTROL INVERTORY, AND PRESERVATION CHECKLIST. NOTE ANY MISSING INFORMSTION 9W02-S03)"
+    },
+    {
+      "id": "scopeOut",
+      "title": "Excluded work",
+      "value": "THIS TEST DOES NOT WANTS US TO RESTRT M-17, CHAINGE SOFTWARE, OR EXPAND CELLS."
+    },
+    {
+      "id": "technical",
+      "title": "Technical feasibility",
+      "value": "DOCUMENTAIONS TOOLS AND READ-ONLY EXXPORTS CAN HELP THE REVIEW, BUT ACCESS HAS NOT BEEN REQUESTED. IF ACCCESS IS DENIED WE WILL NEED TO MAKE A NEW PLAN FOR 9W02-S04)"
+    },
+    {
+      "id": "operational",
+      "title": "Operational feasibility",
+      "value": "QA, ENGINERING, AND CUSTODIANS REVIEWTHE EVIDENCE USING CURRENT WORK FLOW. OPERATIONS CAN USE THEIR SUMMARY. MARA MUST CONFRIM AVABILITY WITH STAFF."
+    },
+    {
+      "id": "resources",
+      "title": "Cost and resource feasibility",
+      "value": "THE 48 HOUR ESTIMATE IS $2,820 WHICH IS UNDER $3,00 LIMIT. THE RANGE IS $2,350-$3525, SO UPPER IS $525 MORE. IT IS PLANNING THE STAFF MIX AND EXCLUDE EQUIPMENT, SOFTWARE LICENSES, AND OVERTIME (W02-S05)"
+    },
+    {
+      "id": "schedule",
+      "title": "Schedule feasibility",
+      "value": "THE 8 DAY PROPOSAL REVIEW IS WITHIN THE 10 DAY LIMIT. IF CALLS FOR 48 STAFF HOURS, IF RECORDS ARRIVE BY DAY 3 AND TASKS CAN OVERLAP (W02-S04)."
+    },
+    {
+      "id": "constraints",
+      "title": "Known constraints",
+      "value": "THE BUDGET IS 3,000 IN STAFF TINE OVER 10 BUSINESS DAYS 9W02-S01). THE REVIEW USES READ-ONLY COPIES, ACESS IS STILL NOT CONFIRMED. NORMAL DUTUIES CONINUE ON (W02-S04).THE 8 DAY SCHEDULE IS AN ESTIMATE AND ASSSUMES EXPORTS ARRIVE BY DAY 3."
+    },
+    {
+      "id": "risks",
+      "title": "Risks and assumptions",
+      "value": "THE PLAN ASSUMES EXPORTS ARRIVE BY DAY 3, ELIAS CAN CONFIRM THIS. IF LATE IT WILL DELAY PROCESSS. MARA SHOULD CONFIRM STAFF 9W02-S04)"
+    },
+    {
+      "id": "success",
+      "title": "Success measures and evidence",
+      "value": "The sponsor can check delivery of the ownership record, control inventory, and evidence checklist, with QA and Engineering reviewing the source links and gaps. W02-S02 measured 60 staff minutes for six requests; only two record sets had both a custodian and source link. A proposed later target is six of six complete links in a comparable sample. No time or money savings have been measured."
+    },
+    {
+      "id": "recommendation",
+      "title": "Recommendation",
+      "value": "revise"
+    },
+    {
+      "id": "rationale",
+      "title": "Rationale and conditions",
+      "value": "REVISE THE PLAN TO STAY WITHIN $3000. BEFORE GOING FOWARD CONFIRM READ ONLY ACCESS, STAFFING, AND UPDATE ESTIMATED COST. ALSO SAVE THE ORGINAL RECORDS AND KEEP M-17 OUT OF OPERTAION. IMORTANT IS IF TEAM WILL RECIEVE EXPORTS BY DAY 3."
+    },
+    {
+      "id": "nextStep",
+      "title": "Next authorization or information step",
+      "value": "ASK ELIAS TO CONFRIM READ ONLY RECORD ACCESS AND IF IT CAN ARRIVE BY DAY 3. THEN GIVE CONFRIMATE AND REVISE PLAN."
+    }
+  ],
+  "sources": [
+    {
+      "id": "W02-S01",
+      "title": "Request for a bounded review",
+      "locator": "Week 2 decision packet · W02-S01"
+    },
+    {
+      "id": "W02-S02",
+      "title": "Evidence-retrieval workload",
+      "locator": "Week 2 decision packet · W02-S02"
+    },
+    {
+      "id": "W02-S03",
+      "title": "Proposed scope and current workflow",
+      "locator": "Week 2 decision packet · W02-S03"
+    },
+    {
+      "id": "W02-S04",
+      "title": "Capacity, access and operating limits",
+      "locator": "Week 2 decision packet · W02-S04"
+    },
+    {
+      "id": "W02-S05",
+      "title": "Estimate and success-measure sheet",
+      "locator": "Week 2 decision packet · W02-S05"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "repository-check",
+      "filename": "Week02_Repository_Check.png",
+      "kind": "supporting-evidence",
+      "caption": "Required Week 2 repository screenshot; supply the actual file separately. This reference does not verify an upload.",
+      "sourceIds": []
+    }
+  ],
+  "relatedReportIds": []
+}
